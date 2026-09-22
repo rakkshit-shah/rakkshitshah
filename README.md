@@ -8,8 +8,8 @@
 
 <br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/)
-[![LinkedIn]([https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white](https://www.linkedin.com/in/rakkshit-shah-5715b5303?utm_source=share_via&utm_content=profile&utm_medium=member_ios))](https://linkedin.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge\&logo=github\&logoColor=white)]([https://github.com/](https://github.com/rakkshit-shah))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)]([https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white](https://www.linkedin.com/in/rakkshit-shah-5715b5303?utm_source=share_via&utm_content=profile&utm_medium=member_ios))
 [![Email](https://img.shields.io/badge/Email-FF4B4B?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:rakkshitshah@gmail.com)
 
 </div>
@@ -183,15 +183,15 @@ A study planning and tracking project designed to organize preparation, track pr
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=rakkshitshah&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rakkshitshah&theme=tokyonight&hide_border=true" />
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakkshitshah&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -262,7 +262,7 @@ I want to explore the space where **AI + software + design + creativity** inters
 
 [![Email](https://img.shields.io/badge/EMAIL-rakkshitshah%40gmail.com-00F7FF?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:rakkshitshah@gmail.com)
 
-[![LinkedIn]([https://img.shields.io/badge/LINKEDIN-RAKKSHIT%20PIYUSH%20SHAH-00F7FF?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/](https://www.linkedin.com/in/rakkshit-shah-5715b5303?utm_source=share_via&utm_content=profile&utm_medium=member_ios))
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-RAKKSHIT%20PIYUSH%20SHAH-00F7FF?style=for-the-badge\&logo=linkedin\&logoColor=white)](www.linkedin.com/in/rakkshit-shah-5715b5303)
 
 <br><br>
 
