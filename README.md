@@ -2,113 +2,115 @@
 
 # ⚡ RAKKSHIT PIYUSH SHAH
 
-### `ENGINEERING • AI • SOFTWARE • CREATIVE TECHNOLOGY`
+### `ASPIRING ENGINEER • AI ENTHUSIAST • BUILDER`
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Aspiring+Engineer+%7C+AI+Enthusiast;Building+Ideas+Into+Interactive+Experiences;Exploring+AI+%7C+Web+%7C+Software+%7C+Game+Development;Welcome+to+my+digital+workspace+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=21&duration=2800&pause=700&color=00F7FF&center=true&vCenter=true&width=750&lines=Turning+ideas+into+interactive+experiences;Exploring+AI+%7C+Software+%7C+Web+%7C+Game+Development;Building+%E2%80%A2+Experimenting+%E2%80%A2+Learning;Welcome+to+my+digital+workspace+%F0%9F%9A%80" />
 
 <br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge\&logo=github\&logoColor=white)]([https://github.com/](https://github.com/rakkshit-shah))
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)]([https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white](https://www.linkedin.com/in/rakkshit-shah-5715b5303?utm_source=share_via&utm_content=profile&utm_medium=member_ios))
-[![Email](https://img.shields.io/badge/Email-FF4B4B?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:rakkshitshah@gmail.com)
+<a href="https://github.com/rakkshit-shah">
+<img src="https://img.shields.io/badge/GitHub-rakkshit--shah-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/rakkshit-shah-5715b5303">
+<img src="https://img.shields.io/badge/LinkedIn-Rakkshit%20Shah-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:rakkshitshah@gmail.com">
+<img src="https://img.shields.io/badge/Email-rakkshitshah%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=rakkshit-shah&style=for-the-badge&color=00F7FF&label=PROFILE+VIEWS"/>
 
 </div>
 
 ---
 
-## 🧬 SYSTEM.INIT()
+## 🧠 `WHO_AM_I`
 
 ```text
-> Initializing Rakkshit's GitHub...
-
-[████████████████████████████████] 100%
-
-USER        : Rakkshit Piyush Shah
-LOCATION    : Mumbai, India
-STATUS      : Building...
-MISSION     : Learn → Build → Experiment → Improve
-INTERESTS   : AI • Software • Web • Games • Design
-MODE        : ALWAYS CURIOUS
+┌──────────────────────────────────────────────────────┐
+│                                                      │
+│  NAME       → Rakkshit Shah                          │
+│  BASE       → Mumbai, India                          │
+│  ROLE       → Aspiring Engineering Student           │
+│                                                      │
+│  FOCUS      → Artificial Intelligence                 │
+│             → Software Development                    │
+│             → Web Development                         │
+│             → Game Development                        │
+│             → UI / UX & Creative Technology          │
+│                                                      │
+│  STATUS     → BUILDING...                            │
+│                                                      │
+└──────────────────────────────────────────────────────┘
 ```
 
+I'm a student passionate about **technology, artificial intelligence, software, and creative digital experiences**.
+
+I enjoy taking an idea from **“What if...?”** to something that actually works.
+
+From games and interactive websites to AI experiments and automation projects, I'm interested in exploring what can be built when **technology meets creativity**.
+
 ---
 
-## 👨‍💻 ABOUT_ME
+# 🚀 `WHAT_I_BUILD`
 
-I'm an aspiring engineer fascinated by the intersection of **technology, artificial intelligence, software, and creative design**.
-
-I enjoy taking an idea and turning it into something people can actually interact with — whether that's a game, website, AI experiment, automation tool, or completely random idea that I decide to build at 2 AM.
-
-I'm currently focused on strengthening my programming fundamentals while exploring the rapidly evolving world of AI and modern software development.
-
-```javascript
-const rakkshit = {
-    location: "Mumbai, India",
-    role: "Aspiring Engineer",
-
-    interests: [
-        "Artificial Intelligence",
-        "Generative AI",
-        "Software Development",
-        "Web Development",
-        "Game Development",
-        "UI/UX",
-        "Automation",
-        "Creative Technology"
-    ],
-
-    mindset: "Learn → Build → Experiment → Improve"
-};
+```text
+                         ┌───────────────┐
+                         │     IDEA      │
+                         └───────┬───────┘
+                                 ↓
+                         ┌───────────────┐
+                         │   EXPERIMENT  │
+                         └───────┬───────┘
+                                 ↓
+                         ┌───────────────┐
+                         │     BUILD     │
+                         └───────┬───────┘
+                                 ↓
+                         ┌───────────────┐
+                         │    IMPROVE    │
+                         └───────┬───────┘
+                                 ↓
+                         ┌───────────────┐
+                         │    REPEAT     │
+                         └───────────────┘
 ```
 
----
+I like building projects around:
 
-# ⚙️ TECH_STACK
-
-### Languages & Core
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=python,cpp,c,js,html,css" />
-</p>
-
-### Development & Tools
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,nodejs,react,tailwind" />
-</p>
-
-### Exploring
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=ai,opencv,figma" />
-</p>
-
-> ⚠️ **Tech stack is evolving.**
-> I'm continuously learning and adding technologies through real projects rather than collecting badges.
+* 🤖 **Artificial Intelligence**
+* 💻 **Software Development**
+* 🌐 **Web Experiences**
+* 🎮 **Games & Interactive Projects**
+* 👁️ **Computer Vision**
+* ⚙️ **Automation**
+* 🎨 **UI/UX & Creative Design**
 
 ---
 
-# 🚀 FEATURED_PROJECTS
+# 🧪 `PROJECT_LAB`
 
 ### 🐍 Snake Ultimatum
 
-> **Classic nostalgia → modern experience**
+**Classic nostalgia. Modern experience.**
 
 A reimagining of the classic Snake game from the old non-touchscreen mobile era.
 
-The goal wasn't simply to recreate Snake, but to take a familiar concept and experiment with making it feel more modern, interactive, and engaging.
+The idea was to take a game with an incredibly simple concept and push it toward a more modern, interactive experience.
 
-`GAME DEVELOPMENT` `INTERACTION` `LOGIC`
+`GAME DEVELOPMENT` `LOGIC` `INTERACTION`
 
 ---
 
 ### 🤖 JARVIS
 
-> **A personal AI assistant concept**
+**A personal AI assistant experiment.**
 
-An experimental AI assistant designed around the idea of interacting with a computer through natural commands and automation.
-
-The project explores how AI can become a more interactive interface between a user and their computer.
+An experimental project exploring how AI could interact with a computer and assist with everyday tasks through natural commands and automation.
 
 `AI` `AUTOMATION` `PYTHON`
 
@@ -116,143 +118,166 @@ The project explores how AI can become a more interactive interface between a us
 
 ### 🖼️ Lumina
 
-> **Personal AI Gallery**
+**Personal AI Gallery**
 
-An experimental project exploring the combination of digital galleries, AI, and modern interface design.
+An experimental digital gallery concept combining AI with a modern visual interface.
 
 `AI` `UI/UX` `CREATIVE TECHNOLOGY`
 
 ---
 
-### 🏎️ Gesture-Controlled Racing Controller
+### 🏎️ Gesture-Controlled Racing
 
-> **Control games without a traditional controller.**
+**Your hands become the controller.**
 
-Uses computer vision and hand tracking to translate physical hand movements into game controls.
-
-**Concept:**
+A computer-vision based experiment that uses hand tracking to translate physical movements into game controls.
 
 ```text
-Camera
+CAMERA
    ↓
-Hand Detection
+HAND DETECTION
    ↓
-Landmark Tracking
+LANDMARK TRACKING
    ↓
-Movement Calculation
+MOVEMENT ANALYSIS
    ↓
-Keyboard Mapping
+KEYBOARD MAPPING
    ↓
-       🎮 GAME
+🎮 GAME CONTROL
 ```
 
-`OpenCV` `MediaPipe` `Computer Vision` `Python`
+`OpenCV` `MediaPipe` `Computer Vision`
 
 ---
 
 ### 📚 MHT-CET Planner
 
-> **Turning exam preparation into a system.**
+**Turning preparation into a system.**
 
-A study planning and tracking project designed to organize preparation, track progress, and make studying more structured.
+A study-planning project designed to organize preparation, track progress, and make exam preparation more structured.
 
-`PRODUCTIVITY` `WEB DEVELOPMENT` `EDUCATION`
+`PRODUCTIVITY` `EDUCATION` `WEB`
 
 ---
 
-# 🧪 CURRENTLY_EXPERIMENTING_WITH
+# ⚙️ `TECH_STACK`
+
+### Languages
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,cpp,c,js,html,css"/>
+</p>
+
+### Tools & Development
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,nodejs,react,tailwind"/>
+</p>
+
+### Exploring
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=opencv,figma"/>
+</p>
+
+> My stack is constantly evolving as I learn through projects and experimentation.
+
+---
+
+# 🧠 `CURRENTLY_EXPLORING`
 
 ```text
-┌─────────────────────────────────────────────┐
-│                                             │
-│  [01] Artificial Intelligence               │
-│  [02] Generative AI                         │
-│  [03] Computer Vision                       │
-│  [04] Modern Web Development               │
-│  [05] Game Development                      │
-│  [06] Automation                            │
-│  [07] UI/UX & Motion                        │
-│  [08] Creative Software Projects            │
-│                                             │
-└─────────────────────────────────────────────┘
+[████████████████████████████████████████] AI
+
+[██████████████████████████████████░░░░] WEB DEVELOPMENT
+
+[██████████████████████████████░░░░░░░░] SOFTWARE
+
+[██████████████████████████░░░░░░░░░░░░] COMPUTER VISION
+
+[████████████████████████░░░░░░░░░░░░░░] GAME DEVELOPMENT
+
+[██████████████████████░░░░░░░░░░░░░░░░] UI / UX
+```
+
+These aren't skill ratings — they're simply a visual representation of the areas I'm actively exploring.
+
+---
+
+# 📊 `GITHUB_ANALYTICS`
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=rakkshit-shah&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakkshit-shah&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=rakkshit-shah&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🐍 `CONTRIBUTION_MATRIX`
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
+
+</div>
+
+---
+
+# 🎯 `ROADMAP`
+
+```text
+2026
+ │
+ ├── Strengthen programming fundamentals
+ ├── Explore AI & Generative AI
+ ├── Build more software projects
+ ├── Improve web development
+ └── Start contributing to open source
+       │
+       ▼
+2027
+ │
+ ├── Advanced development
+ ├── Bigger AI projects
+ ├── Real-world applications
+ └── Open-source collaboration
+       │
+       ▼
+2028+
+ │
+ └── Build technology that people actually use.
 ```
 
 ---
 
-# 📊 GITHUB_ACTIVITY
+# 💭 `MY_MINDSET`
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rakkshitshah&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+## **BUILD SOMETHING.**
 
-<br>
+## **BREAK SOMETHING.**
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rakkshitshah&theme=tokyonight&hide_border=true" />
+## **LEARN WHY.**
 
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakkshitshah&layout=compact&theme=tokyonight&hide_border=true" />
+## **BUILD IT BETTER.**
 
 </div>
 
----
+I don't want to learn technology just to know it.
 
-# 🐍 CONTRIBUTION_PROTOCOL
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" />
-
-</div>
+I want to **use it**.
 
 ---
 
-# 🎯 2026 → 2030
-
-```text
-2026  ███████░░░░░░░░░░░░  Foundations
-      │
-      ├── Programming fundamentals
-      ├── Data Structures & Algorithms
-      ├── Web Development
-      └── AI Exploration
-
-2027  ██████████░░░░░░░░░░  Building
-      │
-      ├── Bigger software projects
-      ├── Open source
-      ├── AI applications
-      └── Better engineering practices
-
-2028  ██████████████░░░░░░  Experimenting
-      │
-      ├── Advanced AI
-      ├── Computer Vision
-      ├── Complex systems
-      └── Real-world products
-
-2029+ ████████████████████  Creating
-      │
-      └── Build things worth using.
-```
-
----
-
-# 💭 THE_BUILD_PHILOSOPHY
-
-<div align="center">
-
-### **"Don't just learn the technology. Build something with it."**
-
-</div>
-
-I don't want to limit myself to one field.
-
-I want to explore the space where **AI + software + design + creativity** intersect and use technology to turn ideas into experiences.
-
----
-
-# 📡 CONNECT
+# 📡 `CONNECT`
 
 <div align="center">
 
@@ -260,18 +285,29 @@ I want to explore the space where **AI + software + design + creativity** inters
 
 <br>
 
-[![Email](https://img.shields.io/badge/EMAIL-rakkshitshah%40gmail.com-00F7FF?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:rakkshitshah@gmail.com)
+<a href="https://github.com/rakkshit-shah">
+<img src="https://img.shields.io/badge/GitHub-rakkshit--shah-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-RAKKSHIT%20PIYUSH%20SHAH-00F7FF?style=for-the-badge\&logo=linkedin\&logoColor=white)](www.linkedin.com/in/rakkshit-shah-5715b5303)
+<a href="https://www.linkedin.com/in/rakkshit-shah-5715b5303">
+<img src="https://img.shields.io/badge/LinkedIn-Rakkshit%20Shah-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:rakkshitshah@gmail.com">
+<img src="https://img.shields.io/badge/Email-rakkshitshah%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 <br><br>
 
 ```text
-SYSTEM STATUS: ONLINE
-NEXT PROJECT: LOADING...
+┌────────────────────────────────────────────┐
+│                                            │
+│   SYSTEM STATUS : ONLINE                   │
+│   PROJECT STATUS: BUILDING                 │
+│   NEXT IDEA     : LOADING...               │
+│                                            │
+└────────────────────────────────────────────┘
 ```
-
-⭐ If something here catches your attention, feel free to explore the repositories.
 
 </div>
 
@@ -279,8 +315,8 @@ NEXT PROJECT: LOADING...
 
 <div align="center">
 
-### `© 2026 Rakkshit Piyush Shah`
+### `LEARN • BUILD • EXPERIMENT • REPEAT`
 
-**BUILD • BREAK • LEARN • REPEAT**
+<sub>© 2026 Rakkshit Shah</sub>
 
 </div>
